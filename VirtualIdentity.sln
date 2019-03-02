@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualIdentity", "VirtualIdentity\VirtualIdentity.csproj", "{69744DA0-FD75-4BA9-8E6B-8EC6E3309EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VICore", "VICore\VICore.csproj", "{22CC63FF-39F3-48AF-A5B8-2F71C9A28AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69744DA0-FD75-4BA9-8E6B-8EC6E3309EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69744DA0-FD75-4BA9-8E6B-8EC6E3309EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69744DA0-FD75-4BA9-8E6B-8EC6E3309EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69744DA0-FD75-4BA9-8E6B-8EC6E3309EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22CC63FF-39F3-48AF-A5B8-2F71C9A28AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CC63FF-39F3-48AF-A5B8-2F71C9A28AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CC63FF-39F3-48AF-A5B8-2F71C9A28AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CC63FF-39F3-48AF-A5B8-2F71C9A28AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {255025C5-3071-46F2-8A25-8FE0D693791A}
+	EndGlobalSection
+EndGlobal

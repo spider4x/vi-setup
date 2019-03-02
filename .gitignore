@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VirtualIdentity/v15
+/packages
+/VICore/bin/Debug
+/VICore/obj/Debug
+/VirtualIdentity/bin/Debug
+/VirtualIdentity/obj/Debug
