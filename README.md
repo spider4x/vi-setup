@@ -1,1 +1,1 @@
-# vi-setup
+# Virtual Identity Machine setup
