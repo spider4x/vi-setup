@@ -26,7 +26,7 @@ namespace VICore
                     Username = f.Internet.UserName(),
                     Password = f.Internet.Password(),
                     BrowserUserAgent = f.Internet.UserAgent(),
-                    Email = f.Internet.Email()
+                    Email = f.Internet.Email()              //todo:
                 });
 
             return testUsers.Generate();

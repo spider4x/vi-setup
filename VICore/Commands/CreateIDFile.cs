@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace VICore.Commands
 {
-    interface ICommand
+    class CreateIDFile : ICommand
     {
-        object Execute(object[] args);
+        public object Execute()
+        {
+            dynamic id = new IdentityGenerator().GenerateJson();
+        }
     }
 }
